@@ -1,0 +1,12 @@
+# General
+*.local
+.vercel
+.envrc
+.env
+
+node_modules
+dist
+dist-ssr
+
+# MacOS
+.DS_Store
