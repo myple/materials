@@ -1,3 +1,3 @@
-# Brand Kit
+# Myple Brand Kit
 
 
